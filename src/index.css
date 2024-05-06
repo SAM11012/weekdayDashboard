@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.closeIcon:hover {
+  color: #ff8282; /* Change the icon color on hover */
+  background-color: #ff8282;
+}
